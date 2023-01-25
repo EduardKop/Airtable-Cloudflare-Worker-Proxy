@@ -1,0 +1,5 @@
+name = "my-worker"
+main = "src/index.js"
+account_id="f984c88ca6a1b9c814f77681781bcf5f"
+workers_dev = true
+compatibility_date = "2023-01-23"
