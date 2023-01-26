@@ -33,10 +33,10 @@ In order to deploy the worker to your own personal worker, upload it via the web
 
 ### Configuration
 
-- `AIRTABLE_BASE_ID` - Enter your table ID here.
+- `AIRTABLE_BASE_ID` - Enter your table ID here.<br>
 ![plot](./src/img/tableid.png)
 - `AIRTABLE_API_KEY` - Enter your API Key here.
-- `TABLE_NAME` - Enter your Table Name here .
+- `TABLE_NAME` - Enter your Table Name here .<br>
 ![plot](./src/img/table.png)
 
 ## Contributing
